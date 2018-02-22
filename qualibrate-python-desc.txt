@@ -1,0 +1,4 @@
+The project basically has a couple of APIs for managing Users, Projects and Files.
+Clients can update different files like png, pdf, gif and text. File as well
+projects belongs to user entity and this data can be fetch from the User API. Projects can be
+Assign to User in User API as well. On the Project API client can fetch projects and add new ones.

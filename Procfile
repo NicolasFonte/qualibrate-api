@@ -1,1 +1,1 @@
-web: mvn spring-boot:run
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/qualibrate-1.0-SNAPSHOT.jar
